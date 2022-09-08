@@ -1,1 +1,1 @@
-# orbiltal-gnc-control-ui
+# orbital-gnc-control-ui
